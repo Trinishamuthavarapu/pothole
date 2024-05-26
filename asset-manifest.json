@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trinishamuthavarapu/pothole.git/static/css/main.8acb147a.css",
+    "main.js": "/Trinishamuthavarapu/pothole.git/static/js/main.c135cdcf.js",
+    "static/js/453.41a7c5ad.chunk.js": "/Trinishamuthavarapu/pothole.git/static/js/453.41a7c5ad.chunk.js",
+    "index.html": "/Trinishamuthavarapu/pothole.git/index.html",
+    "main.8acb147a.css.map": "/Trinishamuthavarapu/pothole.git/static/css/main.8acb147a.css.map",
+    "main.c135cdcf.js.map": "/Trinishamuthavarapu/pothole.git/static/js/main.c135cdcf.js.map",
+    "453.41a7c5ad.chunk.js.map": "/Trinishamuthavarapu/pothole.git/static/js/453.41a7c5ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8acb147a.css",
+    "static/js/main.c135cdcf.js"
+  ]
+}
